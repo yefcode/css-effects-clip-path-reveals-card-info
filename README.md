@@ -1,0 +1,1 @@
+# css-effects-clip-path-reveals-card-info
